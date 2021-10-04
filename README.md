@@ -1,7 +1,7 @@
 ### Olá! Eu sou Jonas Tófoli
 
 - 😎 Hoje, trabalho com Front-End
-- 💾 Estudando: HTML5, CSS3, JS, BOOTSTRAP, Git/GitHub, SQL/MySQL, Word Press e Design de Interfaces (sites e aplicativos) 
+- 💾 Estudando: BOOTSTRAP, SQL/MySQL, Word Press e Design de Interfaces (sites e aplicativos) 
 - ✔️ Pronouns: ele/dele
 
 <div align="center">
