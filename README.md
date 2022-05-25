@@ -1,6 +1,6 @@
 ### Olá! Eu sou Jonas Tófoli
 
-- 😎 Hoje, trabalho com Front-End.
+- 😎 Hoje, trabalho com Front-End (JavaScript).
 - 💾 Estudando: Python, Power BI, React, Prisma, SQL/MySQL e Design de Interfaces (sites e aplicativos) 
 - ✔️ Pronouns: ele/dele
 
