@@ -18,8 +18,6 @@
   <img align="center" alt="jjuniortt-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="jjuniortt-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img img align="center" alt="jjuniortt-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="jjuniortt-Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
 </div>
 
 ### Outras redes sociais.
