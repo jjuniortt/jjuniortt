@@ -1,7 +1,7 @@
 ### Olá, pessoal!👋
 
-- Trabalho com Front-End (HTML5, CSS3, JavaScript, Node, Firebase, Figma (Design de Interfaces) e GitHub.
-- Estudando: Python, Power BI, React, Prisma.
+- Atualmente, trabalho com Front-End (HTML5, CSS3, JavaScript, NodeJS, Firebase, Figma (Design de Interfaces) e GitHub.
+- Estudando: Python (automação), Power BI, ReactJS, TailwindCSS e Prisma.
 - ✔️ Pronouns: ele/dele
 
 <div align="center">
