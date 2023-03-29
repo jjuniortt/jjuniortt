@@ -1,6 +1,6 @@
 ### Olá, pessoal!👋
 
-- Atualmente, estou Analista de Sistemas da Prefeitura Municipal de João Pessoa (PMJP) na Unidade Municipal de Tecnologia da Informação (UMTI), trabalhando com<strong> UX</strong> e <strong>UI Design (Figma)</strong>, com desenvolvimento <strong>Front-End (JavaScript)</strong> e montagem de dashboards/templates com <strong>Power BI</strong>.
+- Analista de Sistemas da Prefeitura Municipal de João Pessoa (PMJP) na Unidade Municipal de Tecnologia da Informação (UMTI), trabalhando com<strong> UX</strong> e <strong>UI Design (Figma)</strong>, com desenvolvimento <strong>Front-End (JavaScript)</strong> e montagem de dashboards/templates com <strong>Power BI</strong>.
 - Estudando: <strong>Python (automação)</strong>, <strong>Power BI</strong>.
 - ✔️ Pronouns: ele/dele
 
