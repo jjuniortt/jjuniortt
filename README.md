@@ -1,7 +1,7 @@
 ### Olá, pessoal!👋
 
 - Atualmente, estou Analista de Sistemas da Prefeitura Municipal de João Pessoa (PMJP) na Unidade Municipal de Tecnologia da Informação (UMTI), trabalhando com<strong> UX</strong> e <strong>UI Design (Figma)</strong>, com desenvolvimento <strong>Front-End (JavaScript)</strong> e montagem de dashboards/templates com <strong>Power BI</strong>.
-- Estudando: <strong>Python (automação)</strong>, <strong>Power BI</strong>.
+- Estudando: <strong>Python (automação)</strong>, <strong>Firebase</strong> e <strong>Power BI</strong>.
 - ✔️ Pronouns: ele/dele
 
 <div align="center">
@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jjuniortt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuniortt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Tecnologias que eu uso no meu dia a dia.
+### Tecnologias utilizadas no dia a dia.
    Além das tecnologias que estudo, destaco (abaixo) as àquelas que mais desenvolvo projetos e serviços.
 <div style="display: inline_block"><br>
   <img align="center" alt="jjuniortt-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
