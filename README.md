@@ -1,7 +1,7 @@
 ### Olá, pessoal!👋
 
-- Atualmente, trabalho como Dev Front-End (HTML5, CSS3, JavaScript, Firebase, Figma (Design de Interfaces) e GitHub.
-- Estudando: Python (automação), Power BI, ReactJS, NodeJS, TailwindCSS e Prisma.
+- Atualmente, estou Analista de Sistemas da Prefeitura Municipal de João Pessoa (PMJP) na Unidade Municipal de Tecnologia da Informação (UMTI), trabalhando com<strong> UX</strong> e <strong>UI Design (Figma)</strong>, com desenvolvimento <strong>Front-End (JavaScript)</strong> e montagem de dashboards/templates com <strong>Power BI</strong>.
+- Estudando: <strong>Python (automação)</strong>, <strong>Power BI</strong>.
 - ✔️ Pronouns: ele/dele
 
 <div align="center">
