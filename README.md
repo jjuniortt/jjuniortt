@@ -9,10 +9,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jjuniortt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuniortt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Tecnologias utilizadas no dia a dia.
-   Além das tecnologias que estudo, destaco (abaixo) as àquelas que mais desenvolvo projetos e serviços.
+### Tecnologias utilizadas no dia a dia!
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="jjuniortt-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="jjuniortt-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="jjuniortt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jjuniortt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jjuniortt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,8 +22,8 @@
   <img align="center" alt="jjuniortt-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
-### Outras redes sociais.
-  Abaixo, destaco as redes sociais públicas que mais utilizo diariamente para tratar de temas e assuntos relacionados a projetos e serviços na área de TI e afins.
+### Redes sociais!
+  Redes sociais públicas que mais utilizo diariamente !
   
 <div> 
   <a href="https://www.youtube.com/channel/UCY6Z9iaxFSyMJTt-48IFIvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
