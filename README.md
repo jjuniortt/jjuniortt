@@ -1,6 +1,6 @@
 ### Olá, pessoal!👋
 
-✔️ Sou Analista de Sistemas (Power BI e Scrum) e Dev Front-End (HTML, CSS, JS). Atualmente, trabalho com <strong>Metodologia Ágil</strong> (Scrum), <strong>Power BI</strong> (montagem e análise de dashboards), <strong>Python</strong>, <strong>GitHub</strong>, <strong>Figma</strong> (Designer de Interface).</br>
+✔️ Sou Analista de Sistemas (Power BI e Scrum) e Dev Front-End (HTML, CSS, JS). Atualmente, trabalho com <strong>Metodologia Ágil</strong> (Scrum), <strong>Power BI</strong> (montagem e análise de dashboards), <strong>Python</strong>, <strong>GitHub</strong>, <strong>Figma</strong> (Designer de Interface).</br></br>
 
 <div align="center">
   <a href="https://github.com/jjuniortt">
