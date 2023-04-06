@@ -1,6 +1,6 @@
 ### Olá, pessoal!👋
 
-- Atualmente, estou Analista de Sistemas (Power BI e Scrum) e Dev Front-End (HTML, CSS, JS e Figma) da Prefeitura Municipal de João Pessoa (PMJP) na Unidade Municipal de Tecnologia da Informação (UMTI), trabalhando com<strong> UX</strong> e <strong>UI Design (Figma)</strong>, desenvolvimento <strong>Front-End (JavaScript)</strong> e montagem de dashboards/templates com <strong>Power BI</strong>.
+- Sou Analista de Sistemas (Power BI e Scrum) e Dev Front-End (HTML, CSS, JS) da Prefeitura Municipal de João Pessoa (PMJP) na Unidade Municipal de Tecnologia da Informação (UMTI), trabalhando com<strong> UX</strong> e <strong>UI Design (Figma)</strong> e montagem de dashboards/templates com <strong>Power BI</strong>.
 - Estudando: <strong>Python (automação)</strong>, <strong>Power BI</strong> e <strong>Inglês</strong> (conversação).
 - ✔️ Pronouns: ele/dele
 
