@@ -1,8 +1,8 @@
 ### Olá, pessoal!👋
 
-✔️ Sou Analista de Sistemas (Power BI e Scrum) e Dev Front-End (HTML, CSS, JS) da Prefeitura Municipal de João Pessoa (PMJP) na Unidade Municipal de Tecnologia da Informação (UMTI).</br>
-✔️ Atualmente, trabalho com <strong>Metodologia Ágil</strong> (Scrum), <strong>Power BI</strong> (montagem e análise de dashboards), <strong>Python</strong>, <strong>GitHub</strong>, <strong>Figma</strong> (Designer de Interface) e Desenvolvimento <strong>Front-End</strong> (HTML, CSS e JS).</br>
-✔️ Estudando: <strong>Python (automação)</strong>, <strong>Power BI</strong> e <strong>Inglês</strong> (conversação).
+##
+
+✔️ Sou Analista de Sistemas (Power BI e Scrum) e Dev Front-End (HTML, CSS, JS). Atualmente, trabalho com <strong>Metodologia Ágil</strong> (Scrum), <strong>Power BI</strong> (montagem e análise de dashboards), <strong>Python</strong>, <strong>GitHub</strong>, <strong>Figma</strong> (Designer de Interface) e Desenvolvimento <strong>Front-End</strong> (HTML, CSS e JS).</br>
 
 <div align="center">
   <a href="https://github.com/jjuniortt">
