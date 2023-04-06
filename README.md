@@ -21,8 +21,8 @@
   <img align="center" alt="jjuniortt-Firebase" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="jjuniortt-Figma" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="jjuniortt-PowerBI" height="45" color="#FFFFFF" width="40" src="https://img.icons8.com/color/512/power-bi.png" />
-  <img align="center" alt="jjuniortt-GitHub" height="45" color="#FFFFFF" width="50" src="https://img.icons8.com/arcade/512/github.png" />
-  <img align="center" alt="jjuniortt-Python" height="45" color="#FFFFFF" width="50" src="https://img.icons8.com/arcade/512/python.png" />
+  <img align="center" alt="jjuniortt-GitHub" height="45" color="#FFFFFF" width="40" src="https://img.icons8.com/arcade/512/github.png" />
+  <img align="center" alt="jjuniortt-Python" height="45" color="#FFFFFF" width="40" src="https://img.icons8.com/arcade/512/python.png" />
 </div>
 
 ### Redes sociais!
