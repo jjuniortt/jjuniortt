@@ -4,8 +4,8 @@
 
 <div align="center">
  <a href="https://github.com/jjuniortt">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjuniortt&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjuniortt&layout=compact&langs_count=8&theme=nord"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjuniortt&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjuniortt&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </div>
   
